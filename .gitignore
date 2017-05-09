@@ -3,3 +3,7 @@
 ################################################################################
 
 /packages
+/pare.Common/obj
+/pare.EntityFrameworkCore/obj
+/pare.EntityFrameworkCore.Seed/obj
+/.vs
